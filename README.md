@@ -1,1 +1,2 @@
-My name is Jeruscha Baum. I'm a PhD student at the University of Zurich researching the upper respiratory tract microbiome.
+My name is Jeruscha Baum. I'm doing a PhD at the University of Zurich researching the microbiome of the upper respiratory tract.
+I did both my bachelor in Biology as well as my Masters in microbiology at the University of Zurich.
